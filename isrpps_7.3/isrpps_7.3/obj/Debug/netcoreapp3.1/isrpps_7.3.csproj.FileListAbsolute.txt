@@ -1,0 +1,16 @@
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.exe
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.deps.json
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.runtimeconfig.json
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.runtimeconfig.dev.json
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.dll
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\bin\Debug\netcoreapp3.1\isrpps_7.3.pdb
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.csproj.AssemblyReference.cache
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\Lab8.Form1.resources
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.csproj.GenerateResource.cache
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.AssemblyInfoInputs.cache
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.AssemblyInfo.cs
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.csproj.CoreCompileInputs.cache
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.dll
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.pdb
+C:\Users\Natrix\Desktop\ISRPPS\isrpps_7.3\isrpps_7.3\obj\Debug\netcoreapp3.1\isrpps_7.3.genruntimeconfig.cache
